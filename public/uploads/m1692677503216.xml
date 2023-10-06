@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.53.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>72ae91dc39.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@72ae91dc39.nxcli.net</User>
+			<Pass encoding="base64">Rmxha2VkUGxvcHNWYW5kYWxEZXNpZ24xMw==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>goh.esljersey.com</Name>
+			<Comments>FlakedPlopsVandalDesign13</Comments>
+			<LocalDir>D:/goh.esljersey.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>

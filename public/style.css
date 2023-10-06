@@ -1,0 +1,7 @@
+.container {
+  flex: auto;
+  padding: 10px, 50px;
+}
+label{border: 1px solid #ccc; padding: 5px;
+width: 100%;
+}
